@@ -1,6 +1,6 @@
 from os import listdir
 from asyncio import run
-from discord import Intents
+from discord import Intents, Interaction, Embed
 from discord.ext.commands import Bot, when_mentioned
 from const import get_info
 
