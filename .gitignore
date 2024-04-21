@@ -227,5 +227,6 @@ pyrightconfig.json
 
 # 개인적으로 추가하는 ignore 리스트 #
 *.json
+!/instance_specs.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python

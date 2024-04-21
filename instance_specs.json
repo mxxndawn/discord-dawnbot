@@ -1,0 +1,10 @@
+{
+    "t2.nano": {"ram": "1GB", "cpu": "1 vCPU"},
+    "t2.micro": {"ram": "2GB", "cpu": "1 vCPU"},
+    "m5.large": {"ram": "8GB", "cpu": "2 vCPU"},
+    "c4.large": {"ram": "3.75GB", "cpu": "2 vCPU"},
+    "c4.xlarge": {"ram": "7.5GB", "cpu": "4 vCPU"},
+    "c4.2xlarge": {"ram": "15GB", "cpu": "8 vCPU"},
+    "c4.4xlarge": {"ram": "30GB", "cpu": "16 vCPU"},
+    "c4.8xlarge": {"ram": "60GB", "cpu": "36 vCPU"}
+}
